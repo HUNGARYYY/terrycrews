@@ -25,6 +25,7 @@ if you aren't familiar with git and just want to use this extension, you can dow
 4. click "Load unpacked extensions"
 5. navigate to the directory you downloaded the zip file and open it
 
+![screenshot](screenshot.png)
 
 # Meta
 - *this extension won't block you from making purchases since having a picture of him in your wallet hypothetically wouldn't either*
